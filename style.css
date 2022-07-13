@@ -73,6 +73,7 @@ main {
   background-position: center;
   opacity: 0;
   transition: opacity 0.3s linear;
+  border-radius: 1rem;
 }
 
 .card__image-wrapper:hover::before {
